@@ -395,7 +395,7 @@ nav h3 {
   height: 80vh;
   width: 100%;
   background-color: #efeae3;
-  padding: 6vw 3vw;
+  padding: 10vw 3vw;
   position: relative;
   z-index: 10;
 }
@@ -452,13 +452,14 @@ nav h3 {
 }
 
 #page5 {
-  height: 100vh;
+  height: 110vh;
   width: 100%;
   z-index: 10;
   position: relative;
 }
 
 #footer {
+  margin-top: 5vw;
   position: fixed;
   height: 120vh;
   width: 100%;
@@ -493,7 +494,7 @@ nav h3 {
 p {
   font-family: neuhaas;
   font-weight: 100;
-  padding-block: 2.5vw;
+  padding-top: 2.5vw;
   cursor: pointer;
   text-decoration: none;
   color: white;
